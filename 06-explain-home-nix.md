@@ -88,7 +88,7 @@ Note that a module basically runs in two "modes". The first is the simpler way
 where the top level attributes are just values that are used for configuration,
 like we have here. The other is separating out the top level attributes into
 a new attribute set assigned to `config`, and then providing some `options`
-definitions that are can be used to modify the module as a whole. The majority
+definitions that can be used to modify the module as a whole. The majority
 of the modules you write will probably be the second way, which we'll get to,
 but I wanted to show this first way because it's simpler and now you'll
 recognize it if you see it in the wild instead of wondering where `config` is.
