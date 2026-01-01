@@ -156,7 +156,7 @@ attribute. Looking through this list, you'll see [`packages`](https://mynixos.co
 Take a moment to explore this site to look up the other `home` values we've set:
 `username`, `homeDirectory`, and `stateVersion`. I'll wait.
 
-The one confusing one is likely `stateVersion`. This one's likely going to be
+The confusing one is likely `stateVersion`. This one's likely going to be
 a little magical for a bit, but the basic idea is that it locks the whole setup
 to a specific schema so that the tool knows how to interpret it. This way new
 changes can be made to the overall system without breaking older setups. The
