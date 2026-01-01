@@ -101,7 +101,7 @@ The output is an attribute set that contains some configuration values.
 For more information and much deeper dives:
 
 - [NixOS manual on modules](https://nixos.org/manual/nixos/stable/#sec-writing-modules)
-- [nix.dev tutorial on modules](https://nix.dev/tutorials/module-system/module-system.html)
+- [nix.dev tutorial on modules](https://nix.dev/tutorials/module-system)
 
 ## The `with` keyword
 
